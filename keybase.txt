@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/gillesbiannic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gillesbiannic.fr
+  * I am gillesbiannic (https://keybase.io/gillesbiannic) on keybase.
+  * I have a public key with fingerprint A9B1 C809 0969 630D 4BD2  99DE C23D 3C11 811D 866F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e11ee8b9a6ec4eac3454b516886fd49adf4ff1f1df228ec459064efbb6be477a0a",
+            "fingerprint": "a9b1c8090969630d4bd299dec23d3c11811d866f",
+            "host": "keybase.io",
+            "key_id": "c23d3c11811d866f",
+            "kid": "0101e11ee8b9a6ec4eac3454b516886fd49adf4ff1f1df228ec459064efbb6be477a0a",
+            "uid": "cbc55e055de6c5645be91e0c41b8d219",
+            "username": "gillesbiannic"
+        },
+        "service": {
+            "hostname": "gillesbiannic.fr",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1456069538,
+    "expire_in": 157680000,
+    "prev": "86bf6d015648a94e05d89a2b669e7052daec0c9a7e2b1f34efc5e5bc13e34677",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIsAnicrZJbSBRRGMd3tcKkoEjQMIImuzzIMmdn5syMPRRFSXeVMjRpmTPnm3Vy
+m1lnxzUxi6KLD9llzcgSQysDjS5SPVh0MZPMpIeyh6SEKCp6KOxCF6jOWL352Hk5
+nPP9vv/3/T++nsnJvlT/22dPvg88T83z999uqfAV9g21VnPEplVcTjVXBqMXRCjE
+3FCZSbkcjkc8AoQAFKJqGHQRNF0QJZFICCsKNqioatQQDQMZiBrBoMIQSeWxCAYh
+mIAoyxqvcdmcYVphcKKOablMVlMJ0hVe5VWsYoGnIqFBVaWgBwUq6AgpCFEFY4Ml
+ltoxL4M1R7QYBEyb/bFHaLS9Mfj/3HfFnzpElyTgJYkC1iUsSgRUBLwuIqLQIFI9
+MAaOpW0BRofNSARixNQsy9S5mmyOheKmDt50PTtjYQHDYSJRx3Zt3Y6waKnrRmM5
+XrZbFfXwSiChv0IhYlqUDZRlxMGJmbbF5SBG6q7pKSNRwjxWJUHJ5mBr1HQgZHqE
+JGOFZ8erA3EmqWBiYMoj5kjRVJEZpIqqBQnGKsi8FKQa6LyuajIECTIENhxdAono
+SABBxLLMedbKLZtpM1FXCzPNmBm2NLfCAa6m+1bJOJ8/1TdhfJK3ab7UiVP+7V9t
+Z4rvzC1rUv7wm/j6L40vPtf/PFh3ftXOqYEbm+9fSWyye0+dSGTtWJh2YBjicpMs
++K9l7Q+sc/xtG4xE6XBGUvqDO8fnuvOvLw087T5e3Zg/s2faxWPT2pddflG0tvto
+2ry9hfGC6cUVpc3vOydM0eSnI27Zh+TyoYEMrmOwuP1SqL7q5aRfzxv6s3JrysMk
+8pjP/VHe2LLR6ut8NWdncUn6y9kjI7vyP4UXPAr0rBg5v7eguKtlMT5SufzC1/jb
+zLwLr1M6DrRv2322uai3oGlw8vyEsGdf19DMhpY1sx++u3l69b22lQNLbh8eOJS5
+3YQZGR+z+Vl7rn5rvVv/Jvf9ubqTidqqRb8B58RN3w==
+=q1YY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gillesbiannic
+
+==================================================================

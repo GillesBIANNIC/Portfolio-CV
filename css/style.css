@@ -1,0 +1,37 @@
+/* SLIDES */
+
+.space {
+    height: 30vh;
+}
+
+.section {
+    color: #263238; /* blue-grey darken-4 */
+    font-family: roboto;
+}
+
+.section h2 {
+    color: #3f51b5; /* indigo */
+}
+
+
+
+/* */
+
+#indentity h3, #indentity h1 {
+    font-weight: 700;
+    color: #fafafa; /* grey lighten-5 */
+    text-shadow: 0 2px 2px #212121; /* grey darken-4 */
+}
+
+#presentationText {
+    font-size: 1.1em;
+    text-align: justify;
+ }
+
+.contact li {
+    margin-bottom: 1em;
+}
+
+.contact p {
+    font-size: 1.2em;
+}

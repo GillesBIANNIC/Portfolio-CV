@@ -1,0 +1,5 @@
+:80 {
+    gzip
+    git https://github.com/GillesBIANNIC/portfolio-cv.git
+    root /srv/gilles
+}
